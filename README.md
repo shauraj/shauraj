@@ -26,5 +26,3 @@ Experienced Technical Lead with a demonstrated history of working in<br>the info
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
