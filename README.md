@@ -63,10 +63,10 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 ## 🎓 Certifications
 
 - 🏅 **Microsoft Azure Certified Professional**
-- 🏅 Azure Cloud Architecture & Services
-- 🏅 Cloud-Ready Application Development
-
-*(Add certification IDs / links if available)*
+- 🏅 Microsoft Certified: Azure Data Fundamentals
+- 🏅 Microsoft Certified: Azure Fundamentals
+- 🏅 Microsoft Certified: Azure Developer Associate
+- 🏅 Google Project Management Certificate (v1)
 
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/75083e9d-6338-4e6c-bf43-72acb5524449" title="Microsoft Certified: Azure Data Fundamentals"><img src="https://images.credly.com/size/80x80/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" alt="Microsoft Certified: Azure Data Fundamentals" width="80" height="80"></a>
@@ -97,7 +97,6 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 📂 **Cloud Migration & Modernization**  
 📂 **High-Performance SQL Server Systems**
 
-*(Pin these projects on your GitHub profile)*
 
 ---
 
@@ -124,16 +123,12 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 ---
 
 
-## 📫 Connect With Me
 
-- 🔗 **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shauraj-kumar-b9ba4625) 
-- 📧 **Email:** [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurajrajrocks@gmail.com) 
 
 ---
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/singhshauraj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaurajsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shauraj-kumar-b9ba4625) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shauraj-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurajrajrocks@gmail.com) 
-
+---
 ---
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
