@@ -12,6 +12,9 @@ Experienced Technical Lead with a demonstrated history of working in<br>the info
 ![](https://nirzak-streak-stats.vercel.app/?user=shauraj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shauraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shauraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
