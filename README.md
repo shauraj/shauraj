@@ -25,3 +25,6 @@ Experienced Technical Lead with a demonstrated history of working in<br>the info
 [![](https://visitcount.itsvg.in/api?id=shauraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
