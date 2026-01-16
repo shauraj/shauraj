@@ -1,6 +1,8 @@
 # 💫 About Me:
 Experienced Technical Lead with a demonstrated history of working in<br>the information technology and services industry. Skilled in ASP.NET, <br>ASP.NET MVC, ASP.NET CORE, Microsoft Azure, SQL Server, ANGULAR,<br>C #(Programming Language). Strong engineering professional <br>graduated from Vellore Institute of Technology.<br><br>I am Currently working on Microsoft Azure, ASP.NET CORE, C# , ASP.NET, <br>SQL SERVER, WEB API, WEB SERVICES , WCF, .NET CORE APIs.<br>
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/singhshauraj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaurajsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shauraj-kumar-b9ba4625) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shauraj-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurajrajrocks@gmail.com) 
