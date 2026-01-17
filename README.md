@@ -88,17 +88,7 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 - Translate business requirements into **cloud-first technical solutions**
 - Ensure best practices in security, scalability & performance
 
----
 
-## 📌 Key Projects (Pinned)
-
-📂 **Enterprise Azure API Platform**  
-📂 **ASP.NET Core Microservices Architecture**  
-📂 **Cloud Migration & Modernization**  
-📂 **High-Performance SQL Server Systems**
-
-
----
 
 ## 🌱 Interests
 
