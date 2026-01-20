@@ -83,8 +83,8 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 
 ## 📘 Publications
 - **First Book Published on C# Corner**  
-  Learn about [topic] with real-world examples.  
-  🔗 [Read here](https://www.c-sharpcorner.com/ebooks/web-api-with-asp-net-core-9-end-to-end-hands-on-build-from-scratch)
+  Learn about Web API with ASP.NET Core 9 – End-to-End Hands-on (Build from Scratch) with real-world examples.  
+  🔗 [Web API with ASP.NET Core 9 – End-to-End Hands-on (Build from Scratch)](https://www.c-sharpcorner.com/ebooks/web-api-with-asp-net-core-9-end-to-end-hands-on-build-from-scratch)
 ---
 
 ---
