@@ -81,6 +81,14 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 
 ---
 
+## 📘 Publications
+- **First Book Published on C# Corner**  
+  Learn about [topic] with real-world examples.  
+  🔗 [Read here](https://www.c-sharpcorner.com/ebooks/web-api-with-asp-net-core-9-end-to-end-hands-on-build-from-scratch)
+---
+
+---
+
 ## 🏗️ Role & Leadership
 
 - Technical Lead driving **architecture, design, and delivery**
