@@ -124,7 +124,7 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 
 
 ---
-## 🌐 Socials:
+## 🌐 Socials: ![](https://komarev.com/ghpvc/?username=shauraj)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/singhshauraj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaurajsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shauraj-kumar-b9ba4625) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/shauraj-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saurajrajrocks@gmail.com) 
 ---
 ---
