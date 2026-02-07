@@ -127,7 +127,7 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shauraj&limit=5&theme=aura_dar&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=shauraj&limit=5&theme=aura_dark&combine_all_yearly_contributions=true)
 
 ---
 ## 🏆 GitHub Trophies
