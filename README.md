@@ -107,15 +107,23 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 
 ---
 
-## 📊 GitHub Activity (Dark Theme)
-
-![](https://github-readme-stats.vercel.app/api?username=shauraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shauraj&theme=dark&hide_border=false)<br/>
+## 📊 GitHub Activity 
+![](https://github-readme-stats.vercel.app/api?username=shauraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=shauraj&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shauraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![GitHub Streak](https://streak-stats.demolab.com?user=shauraj&theme=github-dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shauraj&layout=compact&theme=github_dark)
-
+![](https://streak-stats.demolab.com?user=shauraj&theme=github-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shauraj&layout=compact&theme=github_dark)
 ---
+
+# 📊 GitHub Stats: 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shauraj&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shauraj&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shauraj&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shauraj&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shauraj&theme=aura_dark&utcOffset=8)
+#
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shauraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
