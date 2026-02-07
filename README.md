@@ -104,7 +104,8 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 - Open Source Contributions
 - Artificial Intelligence
 - Distributed Systems & Microservices
-- AI
+- GEN AI
+- ML .NET
 ---
 
 ## 📊 GitHub Activity 
