@@ -124,7 +124,12 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shauraj&theme=aura_dark&utcOffset=8)
 #
 
+---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=shauraj&limit=5&theme=aura_dar&combine_all_yearly_contributions=true)
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shauraj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
