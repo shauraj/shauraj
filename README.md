@@ -77,6 +77,7 @@ C# **. Strong engineering professional graduated from Vellore Institute of Techn
 <a href="https://www.credly.com/badges/a957fa70-ba2b-4e8c-b2f1-2ce2612c8f2a" title="Enterprise Design Thinking Practitioner"><img src="https://images.credly.com/size/80x80/images/bc08972c-3c7d-4b99-82a0-c94bcca36674/Badges_v8-07_Practitioner.png" alt="Enterprise Design Thinking Practitioner" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/5cc94dae-c8e9-41b1-9e3f-e76d9467103e" title="Exam 480: Programming in HTML5 with JavaScript and CSS3"><img src="https://images.credly.com/size/80x80/images/84f513e4-256d-4aa0-a29d-973bcb39d87a/Programming_in_HTML5_with_JavaScript_and_Css3-01.png" alt="Exam 480: Programming in HTML5 with JavaScript and CSS3" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d5c56575-a546-4355-989d-daee9704d3c1" title="IBM Garage Essentials"><img src="https://images.credly.com/size/80x80/images/fb718a87-6d0d-4a6d-8068-677f1bec78f2/IBM_Garage_Essentials.png" alt="IBM Garage Essentials" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/f4164014-c313-4f18-b06e-63e7f30c864f" title="CTS Jan 26 Badge"><img src="https://images.credly.com/size/80x80/images/5d2722af-7ae4-4bb4-8987-62f72c6a690d/blob" alt="CTS Jan 26 Badge" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ---
